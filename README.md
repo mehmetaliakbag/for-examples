@@ -1,6 +1,6 @@
-Bu uygulama, belirli görevleri yerine getiren bir dizi alıştırması içermektedir. Aşağıda her bir aşama için gereken açıklamalar bulunmaktadır.
+Bu uygulama, belirli görevleri yerine getiren bir dizi pratik içermektedir. Aşağıda her bir pratik için gereken açıklamalar bulunmaktadır.
 
-#İçindekiler#
+İçindekiler
 
 Practices1: Mesaj Yazdırma
 
